@@ -3,6 +3,18 @@
 
 ## Overview
 
+<!-- badges: start -->
+
+[![R-CMD-check](https://github.com/pepijn-devries/ggfields/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/pepijn-devries/ggfields/actions/workflows/R-CMD-check.yaml)
+![cranlogs](https://cranlogs.r-pkg.org/badges/ggfields)
+[![version](https://www.r-pkg.org/badges/version/ggfields)](https://CRAN.R-project.org/package=ggfields)
+[![cran
+checks](https://badges.cranchecks.info/worst/ggfields.svg)](https://cran.r-project.org/web/checks/check_results_ggfields.html)
+[![ggfields status
+badge](https://pepijn-devries.r-universe.dev/badges/ggfields)](https://pepijn-devries.r-universe.dev/ggfields)
+[![codecov](https://codecov.io/gh/pepijn-devries/ggfields/graph/badge.svg?token=M8DRDR80RL)](https://app.codecov.io/gh/pepijn-devries/ggfields)
+<!-- badges: end -->
+
 <img src="man/figures/logo.png" align="right" alt = "logo" class = "pkgdown-hide" />
 
 Add vector field layers to your `ggplot2::ggplot()`. Although it has

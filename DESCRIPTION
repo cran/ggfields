@@ -1,11 +1,11 @@
 Package: ggfields
 Title: Add Vector Field Layers to Ggplots
-Version: 0.0.6
-Date: 2024-02-26
+Version: 0.0.7
 Authors@R: c(person("Pepijn", "de Vries", role = c("aut", "cre"),
     email = "pepijn.devries@outlook.com",
     comment = c(ORCID = "0000-0002-7961-6646")))
-Author: Pepijn de Vries [aut, cre] (<https://orcid.org/0000-0002-7961-6646>)
+Author: Pepijn de Vries [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-7961-6646>)
 Maintainer: Pepijn de Vries <pepijn.devries@outlook.com>
 Description: Add vector field layers to ggplots. Ideal for visualising
     wind speeds, water currents, electric/magnetic fields, etc.
@@ -30,6 +30,6 @@ LazyData: true
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-02-26 08:46:06 UTC; vries171
+Packaged: 2025-06-19 22:30:24 UTC; vries171
 Repository: CRAN
-Date/Publication: 2024-02-26 14:40:03 UTC
+Date/Publication: 2025-06-19 23:00:02 UTC
